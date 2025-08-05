@@ -39,8 +39,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/mahek12)
 
----
-
-## 📝 Resume
-
-📄 [Click here to view m]()
